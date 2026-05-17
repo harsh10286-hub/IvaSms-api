@@ -1,5 +1,3 @@
-Flask
-requests
-beautifulsoup4
-cloudscraper
-brotli
+Flask==2.3.3
+beautifulsoup4==4.12.2
+playwright==1.40.0
